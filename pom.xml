@@ -13,6 +13,10 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <scm>
+        <developerConnection>scm:git:https://github.com/waldemar-schneider/sourcetalk-1.git</developerConnection>
+    </scm>
+
     <distributionManagement>
         <repository>
             <id>deployment</id>
