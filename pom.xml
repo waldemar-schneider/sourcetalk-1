@@ -16,11 +16,11 @@
     <distributionManagement>
         <repository>
             <id>deployment</id>
-            <url>http://localhost:8081/artifactory/libs-release-local</url>
+            <url>http://localhost:18081/artifactory/libs-release-local</url>
         </repository>
         <snapshotRepository>
             <id>deployment-snapshots</id>
-            <url>http://localhost:8081/artifactory/libs-snapshot-local</url>
+            <url>http://localhost:18081/artifactory/libs-snapshot-local</url>
         </snapshotRepository>
     </distributionManagement>
 
